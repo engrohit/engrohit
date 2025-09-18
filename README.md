@@ -32,10 +32,25 @@
 - **Automation:** Network monitoring scripts, system optimization tools
 - **Hardware Projects:** Solar power systems, embedded electronics
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrohit&show_icons=true&theme=radical&hide_border=true)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engrohit&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrohit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engrohit&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engrohit&theme=radical&hide_border=true)
+
+
+</div>
+
+## 📈 Contribution Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engrohit&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=engrohit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 ## 🏆 Key Achievements & Projects
 
